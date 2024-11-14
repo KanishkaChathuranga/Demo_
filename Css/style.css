@@ -1,0 +1,33 @@
+h2 {
+    background-color:rgb(20 95 94);
+    color:beige;
+    text-align: center;
+    margin-left: 100px;
+    margin-left: 100px;
+   
+}
+
+
+
+#sample-id-selector{
+
+    background-color: dimgrey;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+#Main{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body{
+
+    background-image: url();
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
